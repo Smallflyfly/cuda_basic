@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/cuda.dir/cuda_generated_threadIdx.cu.o -o cuda  /usr/local/cuda/lib64/libcudart_static.a -ldl /usr/lib/x86_64-linux-gnu/librt.so -lpthread 
